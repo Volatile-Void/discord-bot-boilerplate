@@ -1,0 +1,8 @@
+[project]
+name = "discord-bot-boilerplate"
+version = "0.1.0"
+description = "Boilerplate code for a Discord bot written in Python."
+requires-python = ">=3.12"
+dependencies = [
+    "discord-py>=2.7.1",
+]
